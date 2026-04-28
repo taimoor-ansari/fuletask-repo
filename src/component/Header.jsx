@@ -6,16 +6,16 @@ function Header() {
 
         <ul className="flex items-center gap-8 text-lg">
           <li className="cursor-pointer hover:text-green-200 transition">
-            Home
+            <Link to="/"> Home </Link>
           </li>
           <li className="cursor-pointer hover:text-green-200 transition">
-            Shop
+            <Link to="/shop"> Shop </Link>
           </li>
           <li className="cursor-pointer hover:text-green-200 transition">
-            Career
+            <Link to="/career"> Career </Link>
           </li>
           <li className="cursor-pointer hover:text-green-200 transition">
-            About Us
+            <Link to="/about"> About Us </Link>
           </li>
         </ul>
       </div>
