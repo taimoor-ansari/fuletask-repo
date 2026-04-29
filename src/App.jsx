@@ -8,7 +8,7 @@ function App() {
   return (
     <Router>
       <nav className="bg-blue-600 text-white sticky top-0 z-50">
-        <div className="max-w-7xl mx-auto px-4 py-4 flex gap-8">
+        <div className="max-w-7xl mx-auto px-4 py-4 flex gap-8 justify-end">
           <Link to="/" className="font-bold text-lg hover:text-blue-100">
             Home
           </Link>
