@@ -6,7 +6,7 @@ function FuelSection() {
       <div className="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-8 px-6">
         <div className="bg-white rounded-xl shadow-md overflow-hidden hover:shadow-xl transition">
           <img
-            src="src/component/petrol.jpg"
+            src="src/assets/petrol.jpg"
             alt="Petrol"
             className="w-full h-48 object-cover"
           />
@@ -24,7 +24,7 @@ function FuelSection() {
 
         <div className="bg-white rounded-xl shadow-md overflow-hidden hover:shadow-xl transition">
           <img
-            src="src/component/diesel.jpg"
+            src="src/assets/diesel.jpg"
             alt="Diesel"
             className="w-full h-48 object-cover"
           />
@@ -43,7 +43,7 @@ function FuelSection() {
 
         <div className="bg-white rounded-xl shadow-md overflow-hidden hover:shadow-xl transition">
           <img
-            src="src/component/High.jpg"
+            src="src/assets/High.jpg"
             alt="High Octane"
             className="w-full h-48 object-cover"
           />

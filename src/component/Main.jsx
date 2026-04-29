@@ -19,7 +19,7 @@ function Main() {
 
         <div className="w-full md:w-1/2">
           <img
-            src="src/component/images.webp"
+            src="src/assets/images.webp"
             alt="Fuel Pump"
             className="w-full rounded-lg shadow-lg object-cover"
           />
